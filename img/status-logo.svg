@@ -1,0 +1,19 @@
+<svg width="188" height="47" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="49" width="190" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="1" x="1" height="400" width="580"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_12">
+   <path id="svg_4" fill="#4360DF" d="m23.683696,0.401297c-12.72227,0 -23.035668,10.313562 -23.035668,23.035668c0,12.72227 10.313398,23.035668 23.035668,23.035668c12.72227,0 23.035668,-10.313398 23.035668,-23.035668c0,-12.722106 -10.313398,-23.035668 -23.035668,-23.035668z" clip-rule="evenodd" fill-rule="evenodd"/>
+   <path id="svg_5" fill="white" d="m24.457283,22.427262c1.15672,0.120444 2.313439,0.240805 3.735563,0.161579c3.853045,-0.214808 6.187051,-2.19242 6.021441,-5.148472c-0.168819,-3.007636 -3.273944,-4.860608 -6.380798,-4.687347c-5.063158,0.282105 -8.78638,4.72733 -9.205711,9.808011c0.687615,-0.161085 1.411346,-0.257259 2.09386,-0.295268c1.422206,-0.079226 2.578925,0.041135 3.735645,0.161496zm-9.925493,6.57512c0.159769,2.75704 3.101506,4.455592 6.044971,4.296728c4.796602,-0.258658 8.324021,-4.33342 8.721139,-8.990739c-0.651416,0.147675 -1.336974,0.235951 -1.983618,0.270751c-1.34734,0.072645 -2.443262,-0.03768 -3.539184,-0.148086c-1.09584,-0.110324 -2.191762,-0.220649 -3.539019,-0.148004c-3.650084,0.196873 -5.861426,2.009615 -5.70429,4.71935z" clip-rule="evenodd" fill-rule="evenodd"/>
+  </g>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="16" id="svg_13" y="29.055186" x="54.659169" stroke-width="0" stroke="#000" fill="#000000">better experience</text>
+ </g>
+</svg>
